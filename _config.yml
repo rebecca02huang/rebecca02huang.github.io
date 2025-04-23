@@ -1,2 +1,3 @@
 name: Yuwen Huang, Essie
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
