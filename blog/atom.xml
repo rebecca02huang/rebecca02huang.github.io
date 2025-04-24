@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://rebecca02huang.github.io/blog</id>
 	<author>
-		<name>Yuwen Huang</name>
+		<name>Yuwen Huang, Essie</name>
 		<email>2403205243@qq.com</email>
 	</author>
 
