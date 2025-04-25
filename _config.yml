@@ -4,3 +4,7 @@ permalink: /blog/:year/:month/:day/:title
 domain: "rebecca02huang.github.io"     # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: "https://rebecca02huang.github.io"  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: "/rebecca02huang"    # place folder name if the site is served in a subfolder
+# Social media links
+social_links:
+  Instagram: essie_huang032
+  University: Cornell University
