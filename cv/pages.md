@@ -1,2 +1,3 @@
 -[Machine Learning Lab Report](/assets/documents/Lab_Report.pdf)
-
+-[Report on Predicting Healthcare Employee Attrition: insights from Gradient Boosting](/assets/documents/Gradient_Boosting.pdf)
+-[Project Report](/assets/documents/Project_Report.pdf)
