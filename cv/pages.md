@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Documents
+layout: default
+title: cv
 permalink: /documents/
 ---
 
