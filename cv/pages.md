@@ -1,1 +1,1 @@
-[Machine Learning Lab Report](/assets/documents/Machine Learning Lab Report.pdf)
+[Machine Learning Lab Report](/assets/documents/Lab_Report.pdf)
