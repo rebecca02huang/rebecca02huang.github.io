@@ -1,0 +1,24 @@
+.image-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.image-row img {
+  width: 30%; /* Each image takes up approximately 1/3 of the container */
+  height: auto;
+  object-fit: cover; /* Maintains aspect ratio while filling the space */
+}
+
+/* Make it responsive on mobile */
+@media (max-width: 768px) {
+  .image-row {
+    flex-direction: column;
+  }
+  
+  .image-row img {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+}
