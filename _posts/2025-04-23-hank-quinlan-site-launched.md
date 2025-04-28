@@ -4,7 +4,7 @@ title: "Yuwen Huang, Essie, Launches Site"
 date: 2025-04-23
 ---
 
-** Besides studying, I like to travel, so I made a blog to record the places I have been…:D **
+**Besides studying, I like to travel, so I made a blog to record the places I have been…:D**
 
 <figure>
   <img src="/assets/image/photo1.JPG" alt="Monument" width="500">
