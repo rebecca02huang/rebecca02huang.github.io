@@ -27,7 +27,7 @@ date: 2025-04-23
 </figure>
 
 <figure>
-  <img src="/assets/image/photo5.JPG" alt="Description" width="500">
+  <img src="/assets/image/photo5.JPG" alt="Time Square" width="500">
   <figcaption>New York</figcaption>
 </figure>
 
