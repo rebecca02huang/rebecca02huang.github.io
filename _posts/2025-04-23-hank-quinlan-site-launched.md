@@ -6,11 +6,20 @@ date: 2025-04-23
 
 **Besides studying, I like to travel, so I made a blog to record the places I have been…:D**
 
-<div class="image-row">
-  <img src="/assets/images/photo1.JPG" alt="Washington D.C. Monument">
-  <img src="/assets/images/photo2.JPG" alt="Washington D.C. Capitol Hill">
-  <img src="/assets/images/photo3.JPG" alt="Washington D.C. National Museum of Natural History">
-</div>
+<figure>
+  <img src="/assets/image/photo1.JPG" alt="Monument" width="500">
+  <figcaption>Washington D.C.</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/image/photo2.JPG" alt="Capitol Hill" width="500">
+  <figcaption>Washington D.C.</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/image/photo3.JPG" alt="National Museum of Natural History" width="500">
+  <figcaption>Washington D.C.</figcaption>
+</figure>
 
 <figure>
   <img src="/assets/image/photo4.JPG" alt="Rockefeller" width="500">
